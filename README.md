@@ -94,7 +94,7 @@
 **Purpose**:  
 To test inaccurate spellings/abbreviations for the number of rooms, cleaning services, and cleaning quality.
 
-![Test Case 1](HCCC%20-%20Test%20Case%201.png)
+![Test Case 1](HCCC%20Test%20Case%201.png)
 
 ---
 
@@ -116,7 +116,7 @@ To test inaccurate spellings/abbreviations for the number of rooms, cleaning ser
 **Purpose**:  
 To evaluate house size classification, cost calculation for a large house, and validation of cleaning quality input.
 
-![Test Case 2](HCCC%20-%20Test%20Case%202.png)
+![Test Case 2](HCCC%20Test%20Case%202.png)
 
 ---
 
@@ -135,4 +135,4 @@ To evaluate house size classification, cost calculation for a large house, and v
 **Purpose**:  
 To assess how the program handles non-positive room numbers and validates correct spelling for cleaning quality.
 
-![Test Case 3](HCCC%20-%20Test%20Case%203.png)
+![Test Case 3](HCCC%20Test%20Case%203.png)
